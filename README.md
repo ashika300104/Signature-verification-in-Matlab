@@ -1,7 +1,5 @@
 # Signature-verification-in-Matlab
-Authenticating a user with their signature using matlab 
-
-# Signature-Verification-Project-Matlab
+Authenticating a user with their signature using matlab
 
 ->  Database Preparation
 
